@@ -33,7 +33,7 @@ System.out.println(strArray[1]);
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // [intArrayという名前の配列の、添え字が1と4の要素の値を表示]
+        // [intArrayという名前の配列の、添え字が1と4の要素の合計値を表示]
         System.out.println(intArray[1] + intArray[4]);
 
     }
