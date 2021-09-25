@@ -64,5 +64,10 @@
         width: 150px;
         height: 100px;
     }
-
+    .header{
+        width: 150px;
+    }
+    .footer{
+        width: 150px;
+    }
 }
