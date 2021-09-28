@@ -1,0 +1,44 @@
+@media screen and (max-width: 479px) 
+{
+
+.wrapper{
+width: 200px;
+}
+.header{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 20px 70px;
+    justify-content: space-around;
+}
+
+.white-box{
+height: 160px;
+width: 60px;
+display: flex;
+flex-flow: column;
+position: static;
+}
+
+.left{
+    float: none;
+    width: 200px;
+    height: 100px;
+}
+
+.right{
+float: none;
+width: 200px;
+height: 200px;
+box-sizing: border-box;
+padding-left: 30px;
+padding-top: 20px;
+padding-right: 30px;
+padding-bottom: 20px;
+}
+
+.footer{
+    width: 200px;
+}
+
+}
